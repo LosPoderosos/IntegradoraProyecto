@@ -1,4 +1,0 @@
-IntegradoraProyecto
-===================
-
-Proyecto Integradora
